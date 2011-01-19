@@ -1,0 +1,1309 @@
+Archive member included because of file (symbol)
+
+/media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                              ./avrRos_user.o (HardwareSerial::begin(long))
+/media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o) (Print::write(char const*))
+/media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+                              ./Arduino/Servo.o (map(long, long, long, long, long))
+/media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o (main)
+/media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+                              ./main.o (delay)
+/media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+                              ./main.o (analogRead)
+/media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+                              ./main.o (pinMode)
+/media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o) (port_to_mode_PGM)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o) (__mulsi3)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodqi4.o)
+                              ./Arduino/Servo.o (__udivmodqi4)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+                              ./Arduino/Servo.o (__divmodhi4)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o) (__udivmodsi4)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o) (__divmodsi4)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o (exit)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+                              ./avrRos_user.o (__do_copy_data)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+                              ./avrRos_user.o (__do_clear_bss)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+                              ./main.o (__do_global_ctors)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+                              ./main.o (__do_global_dtors)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o) (__fixunssfsi)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+                              ./main.o (__subsf3)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                              ./main.o (__mulsf3)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                              ./main.o (__divsf3)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o) (__gesf2)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o) (__ltsf2)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+                              ./main.o (__floatsisf)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o) (__fixsfsi)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_thenan_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o) (__thenan_sf)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o) (__floatunsisf)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o) (__prologue_saves__)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o) (__tablejump__)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clzsi2.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o) (__clzsi2)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_pack_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o) (__pack_f)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_unpack_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o) (__unpack_f)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o) (__fpcmp_parts_f)
+/usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clz.o)
+                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clzsi2.o) (__clz_tab)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                              ./main.o (malloc)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o) (random)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+                              ./avrRos/AvrLaserVector.o (memcpy)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+                              ./avrRos/ros_generated.o (strcmp)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+                              ./avrRos/ros_string.o (strncpy)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+                              ./avrRos/Ros.o (fdevopen)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fputc.o)
+                              ./avrRos/Ros.o (fputc)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+                              ./avrRos/Ros.o (fwrite)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o) (__iob)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o) (calloc)
+/usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memset.o)
+                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o) (memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__flp               0x2               /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__iob               0x6               /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+
+Discarded input sections
+
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fputc.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fputc.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+ .stab          0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memset.o)
+ .stabstr       0x00000000        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+LOAD ./avrRos_user.o
+LOAD ./main.o
+LOAD ./avrRos/AvrLaserVector.o
+LOAD ./avrRos/Msg.o
+LOAD ./avrRos/Ros.o
+LOAD ./avrRos/String.o
+LOAD ./avrRos/ros_generated.o
+LOAD ./avrRos/ros_string.o
+LOAD ./Arduino/Servo.o
+LOAD /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a
+LOAD /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x404e
+ *(.vectors)
+ .vectors       0x00000000       0x68 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000068       0x5a /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                0x00000068                port_to_mode_PGM
+                0x00000086                digital_pin_to_port_PGM
+                0x0000009a                digital_pin_to_bit_mask_PGM
+                0x00000072                port_to_output_PGM
+                0x0000007c                port_to_input_PGM
+                0x000000ae                digital_pin_to_timer_PGM
+                0x000000c2                . = ALIGN (0x2)
+                0x000000c2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000c2        0x0 linker stubs
+ *(.trampolines*)
+                0x000000c2                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000c2        0x2 ./main.o
+ .ctors         0x000000c4        0x2 ./avrRos/Ros.o
+ .ctors         0x000000c6        0x2 ./avrRos/ros_generated.o
+ .ctors         0x000000c8        0x2 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                0x000000ca                __ctors_end = .
+                0x000000ca                __dtors_start = .
+ *(.dtors)
+ .dtors         0x000000ca        0x2 ./main.o
+ .dtors         0x000000cc        0x2 ./avrRos/ros_generated.o
+                0x000000ce                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000ce        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+                0x000000ce                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000ce        0xc /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000da       0x16 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+                0x000000da                __do_copy_data
+ .init4         0x000000f0       0x10 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+                0x000000f0                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000100       0x16 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+                0x00000100                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000116        0x8 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000011e        0x4 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+                0x0000011e                __vector_22
+                0x0000011e                __vector_1
+                0x0000011e                __vector_24
+                0x0000011e                __vector_12
+                0x0000011e                __bad_interrupt
+                0x0000011e                __vector_6
+                0x0000011e                __vector_3
+                0x0000011e                __vector_23
+                0x0000011e                __vector_25
+                0x0000011e                __vector_13
+                0x0000011e                __vector_17
+                0x0000011e                __vector_19
+                0x0000011e                __vector_7
+                0x0000011e                __vector_5
+                0x0000011e                __vector_4
+                0x0000011e                __vector_9
+                0x0000011e                __vector_2
+                0x0000011e                __vector_21
+                0x0000011e                __vector_15
+                0x0000011e                __vector_8
+                0x0000011e                __vector_14
+                0x0000011e                __vector_10
+                0x0000011e                __vector_20
+ .text          0x00000122       0x2c ./avrRos_user.o
+                0x0000013c                Ros::initCommunication()
+                0x00000122                ros_getchar(__file*)
+                0x0000012c                ros_putchar(char, __file*)
+ .text          0x0000014e      0xc40 ./main.o
+                0x000001a0                loop
+                0x000002b4                toggle()
+                0x0000014e                __cxa_pure_virtual
+                0x000002e0                setup
+                0x000002da                response(Msg*)
+ .text          0x00000d8e      0x22e ./avrRos/AvrLaserVector.o
+                0x00000f38                maximus_sensors::AvrLaserVector::AvrLaserVector()
+                0x00000ebc                maximus_sensors::AvrLaserVector::AvrLaserVector(unsigned char*)
+                0x00000f14                maximus_sensors::AvrLaserVector::~AvrLaserVector()
+                0x00000f7a                maximus_sensors::AvrLaserVector::AvrLaserVector()
+                0x00000d94                maximus_sensors::AvrLaserVector::deserialize(unsigned char*)
+                0x00000d8e                maximus_sensors::AvrLaserVector::bytes()
+                0x00000e4a                maximus_sensors::AvrLaserVector::serialize(unsigned char*)
+                0x00000ef0                maximus_sensors::AvrLaserVector::~AvrLaserVector()
+                0x00000ed6                maximus_sensors::AvrLaserVector::AvrLaserVector(unsigned char*)
+ .text          0x00000fbc       0x30 ./avrRos/Msg.o
+                0x00000fbc                Msg::Msg()
+                0x00000fe0                Msg::~Msg()
+                0x00000fc8                Msg::Msg()
+                0x00000fd4                Msg::~Msg()
+ .text          0x00000fec      0x3d4 ./avrRos/Ros.o
+                0x00001372                Ros::Ros(char*, unsigned char)
+                0x00001090                Ros::getID()
+                0x000012d8                Ros::advertise(char*)
+                0x00000fec                Ros::resetStateMachine()
+                0x00001296                Ros::publish(unsigned char, Msg*)
+                0x000012de                Ros::subscribe(char*, void (*)(Msg*), Msg*)
+                0x00001324                Ros::Ros(char*, unsigned char)
+                0x0000101c                Ros::send(unsigned char*, unsigned int, char, char)
+                0x00001002                Ros::~Ros()
+                0x00001004                Ros::~Ros()
+                0x000010b6                Ros::spin()
+ .text          0x000013c0       0xc4 ./avrRos/String.o
+                0x000013d0                std_msgs::String::serialize(unsigned char*)
+                0x00001472                std_msgs::String::~String()
+                0x00001460                std_msgs::String::~String()
+                0x0000143e                std_msgs::String::String()
+                0x000013c0                std_msgs::String::bytes()
+                0x000013c8                std_msgs::String::deserialize(unsigned char*)
+                0x000013d8                std_msgs::String::String(unsigned char*)
+                0x0000141c                std_msgs::String::String()
+                0x000013fa                std_msgs::String::String(unsigned char*)
+ .text          0x00001484       0x62 ./avrRos/ros_generated.o
+                0x000014d0                Ros::getTopicTag(char*)
+ .text          0x000014e6      0x214 ./avrRos/ros_string.o
+                0x000016da                ROS::string::string(char*)
+                0x000014ee                ROS::string::string()
+                0x00001654                ROS::string::setString(char*)
+                0x000016e6                ROS::string::string(unsigned int)
+                0x000014f6                ROS::string::bytes()
+                0x00001620                ROS::string::setMaxLength(unsigned int)
+                0x0000150e                ROS::string::deserialize(unsigned char*)
+                0x000016f0                ROS::string::string(unsigned int)
+                0x000016e0                ROS::string::string(char*)
+                0x000015bc                ROS::string::serialize(unsigned char*)
+                0x000014e6                ROS::string::string()
+ .text          0x000016fa      0x5ac ./Arduino/Servo.o
+                0x00001b1e                Servo::attach(int)
+                0x00001882                Servo::attached()
+                0x00001844                Servo::readMicroseconds()
+                0x00001b2c                __vector_11
+                0x000016fa                Servo::Servo()
+                0x00001762                Servo::detach()
+                0x0000172e                Servo::Servo()
+                0x00001a20                Servo::attach(int, int, int)
+                0x000018a6                Servo::read()
+                0x00001950                Servo::write(int)
+                0x000017b6                Servo::writeMicroseconds(int)
+ .text          0x00001ca6      0x49a /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                0x00002016                HardwareSerial::available()
+                0x000020a6                HardwareSerial::write(unsigned char)
+                0x00001de0                HardwareSerial::begin(long)
+                0x0000208e                HardwareSerial::flush()
+                0x00001fc2                HardwareSerial::end()
+                0x00001d80                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x00001d20                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x0000203e                HardwareSerial::read()
+                0x00001ca6                __vector_18
+ .text          0x00002140      0x53c /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                0x0000244c                Print::println(unsigned int, int)
+                0x00002408                Print::println()
+                0x000024de                Print::println(int, int)
+                0x000021be                Print::printNumber(unsigned long, unsigned char)
+                0x00002170                Print::write(unsigned char const*, unsigned int)
+                0x00002660                Print::print(double, int)
+                0x000023e4                Print::print(char, int)
+                0x00002140                Print::write(char const*)
+                0x00002548                Print::printFloat(double, unsigned char)
+                0x000023be                Print::print(int, int)
+                0x0000232e                Print::print(unsigned char, int)
+                0x000024b2                Print::println(char const*)
+                0x0000247e                Print::println(unsigned char, int)
+                0x00002514                Print::println(char, int)
+                0x0000230c                Print::print(unsigned int, int)
+                0x000021ae                Print::print(char const*)
+                0x000022ee                Print::print(unsigned long, int)
+                0x000024c8                Print::println(long, int)
+                0x00002666                Print::println(double, int)
+                0x00002352                Print::print(long, int)
+                0x00002436                Print::println(unsigned long, int)
+ .text          0x0000267c      0x132 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+                0x00002710                makeWord(unsigned char, unsigned char)
+                0x00002762                random(long, long)
+                0x0000279e                randomSeed(unsigned int)
+                0x0000267c                map(long, long, long, long, long)
+                0x0000270e                makeWord(unsigned int)
+                0x0000271e                random(long)
+ .text          0x000027ae        0xe /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+                0x000027ae                main
+ .text          0x000027bc      0x1d4 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+                0x0000291c                init
+                0x00002868                micros
+                0x000028b4                delay
+                0x000027bc                __vector_16
+                0x0000284c                millis
+                0x00002908                delayMicroseconds
+ .text          0x00002990       0xf4 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+                0x000029d2                analogWrite
+                0x00002990                analogReference
+                0x00002996                analogRead
+ .text          0x00002a84      0x178 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+                0x00002b5e                digitalRead
+                0x00002ac4                digitalWrite
+                0x00002a84                pinMode
+ .text          0x00002bfc        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodqi4.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+ .text          0x00002bfc        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+ .text          0x00002bfc       0x58 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+                0x00002bfc                __fixunssfsi
+ .text          0x00002c54      0x354 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+                0x00002eec                __subsf3
+                0x00002f4e                __addsf3
+ .text          0x00002fa8      0x1f4 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                0x00002fa8                __mulsf3
+ .text          0x0000319c      0x158 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                0x0000319c                __divsf3
+ .text          0x000032f4       0x60 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+                0x000032f4                __gesf2
+ .text          0x00003354       0x60 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+                0x00003354                __ltsf2
+ .text          0x000033b4       0xbc /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+                0x000033b4                __floatsisf
+ .text          0x00003470       0xa8 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+                0x00003470                __fixsfsi
+ .text          0x00003518        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_thenan_sf.o)
+ .text          0x00003518       0xf2 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+                0x00003518                __floatunsisf
+ .text          0x0000360a        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x0000360a        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+ .text          0x0000360a        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+ .text          0x0000360a        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+ .text          0x0000360a       0x9e /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clzsi2.o)
+                0x0000360a                __clzsi2
+ .text          0x000036a8      0x1aa /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_pack_sf.o)
+                0x000036a8                __pack_f
+ .text          0x00003852       0xf0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_unpack_sf.o)
+                0x00003852                __unpack_f
+ .text          0x00003942       0xb2 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                0x00003942                __fpcmp_parts_f
+ .text          0x000039f4        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clz.o)
+ .text          0x000039f4      0x204 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                0x000039f4                malloc
+                0x00003b48                free
+ .text          0x00003bf8       0xc2 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                0x00003c9e                random
+                0x00003c98                random_r
+                0x00003ca8                srandom
+ .text          0x00003cba       0x12 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+                0x00003cba                memcpy
+ .text          0x00003ccc       0x12 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+                0x00003ccc                strcmp
+ .text          0x00003cde       0x1e /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+                0x00003cde                strncpy
+ .text          0x00003cfc       0x98 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+                0x00003cfc                fdevopen
+ .text          0x00003d94       0x58 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fputc.o)
+                0x00003d94                fputc
+ .text          0x00003dec       0x6a /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+                0x00003dec                fwrite
+ .text          0x00003e56        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+ .text          0x00003e56       0x38 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+                0x00003e56                calloc
+ .text          0x00003e8e        0xe /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memset.o)
+                0x00003e8e                memset
+                0x00003e9c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x00003e9c       0x3e /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+                0x00003e9c                __mulsi3
+ .text.libgcc   0x00003eda       0x18 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodqi4.o)
+                0x00003eda                __udivmodqi4
+ .text.libgcc   0x00003ef2       0x26 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+                0x00003ef2                __divmodhi4
+                0x00003ef2                _div
+ .text.libgcc   0x00003f18       0x44 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+                0x00003f18                __udivmodsi4
+ .text.libgcc   0x00003f5c       0x36 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+                0x00003f5c                __divmodsi4
+ .text.libgcc   0x00003f92        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x00003f92        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00003f92        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00003f92        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+ .text.libgcc   0x00003f92        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+ .text.libgcc   0x00003f92       0x28 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+                0x00003f92                __udivmodhi4
+ .text.libgcc   0x00003fba       0x38 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+                0x00003fba                __prologue_saves__
+ .text.libgcc   0x00003ff2       0x36 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+                0x00003ff2                __epilogue_restores__
+ .text.libgcc   0x00004028        0xc /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+                0x0000402c                __tablejump__
+                0x00004028                __tablejump2__
+                0x00004034                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00004034        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+                0x00004034                exit
+                0x00004034                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x00004034       0x16 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+                0x00004034                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000404a        0x4 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000404e                _etext = .
+
+.data           0x00800100      0x182 load address 0x0000404e
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+ .data          0x00800100        0x0 ./avrRos_user.o
+ .data          0x00800100       0x17 ./main.o
+ .data          0x00800117        0xa ./avrRos/AvrLaserVector.o
+                0x00800117                vtable for maximus_sensors::AvrLaserVector
+ .data          0x00800121        0xa ./avrRos/Msg.o
+                0x00800121                vtable for Msg
+ .data          0x0080012b        0x0 ./avrRos/Ros.o
+ .data          0x0080012b        0xa ./avrRos/String.o
+                0x0080012b                vtable for std_msgs::String
+ .data          0x00800135       0x24 ./avrRos/ros_generated.o
+ .data          0x00800159        0x0 ./avrRos/ros_string.o
+ .data          0x00800159        0x0 ./Arduino/Servo.o
+ .data          0x00800159        0xa /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                0x00800159                vtable for HardwareSerial
+ .data          0x00800163        0xc /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                0x00800165                vtable for Print
+ .data          0x0080016f        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+ .data          0x0080016f        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+ .data          0x0080016f        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+ .data          0x0080016f        0x1 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+                0x0080016f                analog_reference
+ .data          0x00800170        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+ .data          0x00800170        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodqi4.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+ .data          0x00800170        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+ .data          0x00800170        0x8 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_thenan_sf.o)
+                0x00800170                __thenan_sf
+ .data          0x00800178        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+ .data          0x00800178        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x00800178        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+ .data          0x00800178        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+ .data          0x00800178        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+ .data          0x00800178        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clzsi2.o)
+ .data          0x00800178        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_pack_sf.o)
+ .data          0x00800178        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_unpack_sf.o)
+ .data          0x00800178        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800178      0x100 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clz.o)
+                0x00800178                __clz_tab
+ .data          0x00800278        0x6 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                0x0080027a                __malloc_heap_start
+                0x0080027c                __malloc_heap_end
+                0x00800278                __malloc_margin
+ .data          0x0080027e        0x4 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+ .data          0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .data          0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .data          0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .data          0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+ .data          0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fputc.o)
+ .data          0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+ .data          0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+ .data          0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+ .data          0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memset.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800282                . = ALIGN (0x2)
+                0x00800282                _edata = .
+                0x00800282                PROVIDE (__data_end, .)
+
+.bss            0x00800282      0x374 load address 0x000041d0
+                0x00800282                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800282        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+ .bss           0x00800282        0x0 ./avrRos_user.o
+ .bss           0x00800282       0x16 ./main.o
+                0x00800294                turret
+                0x00800283                responseavrlaservector_msg
+                0x00800290                tempfloat
+                0x00800282                respavrlaservector
+ .bss           0x00800298        0x0 ./avrRos/AvrLaserVector.o
+ .bss           0x00800298        0x0 ./avrRos/Msg.o
+ .bss           0x00800298        0x2 ./avrRos/Ros.o
+                0x00800298                ros_io
+ .bss           0x0080029a        0x0 ./avrRos/String.o
+ .bss           0x0080029a      0x28c ./avrRos/ros_generated.o
+                0x0080029a                ros
+ .bss           0x00800526        0x0 ./avrRos/ros_string.o
+ .bss           0x00800526       0x26 ./Arduino/Servo.o
+                0x00800526                ServoCount
+ .bss           0x0080054c       0x97 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                0x0080054c                rx_buffer
+                0x008005d0                Serial
+ .bss           0x008005e3        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+ .bss           0x008005e3        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+ .bss           0x008005e3        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+ .bss           0x008005e3        0x9 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+                0x008005e3                timer0_overflow_count
+                0x008005e7                timer0_millis
+ .bss           0x008005ec        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+ .bss           0x008005ec        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+ .bss           0x008005ec        0x0 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodqi4.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_thenan_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clzsi2.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_pack_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_unpack_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clz.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fputc.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+ .bss           0x008005ec        0x0 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memset.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x008005ec        0x4 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                0x008005ec                __brkval
+                0x008005ee                __flp
+ COMMON         0x008005f0        0x6 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+                0x008005f0                __iob
+                0x008005f6                PROVIDE (__bss_end, .)
+                0x0000404e                __data_load_start = LOADADDR (.data)
+                0x000041d0                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008005f6        0x0
+                0x008005f6                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008005f6                PROVIDE (__noinit_end, .)
+                0x008005f6                _end = .
+                0x008005f6                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(avrBridgeAVR_example.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+HardwareSerial::available()                       /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+HardwareSerial::begin(long)                       /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                                                  ./avrRos_user.o
+HardwareSerial::end()                             /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+HardwareSerial::flush()                           /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+HardwareSerial::read()                            /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                                                  ./avrRos_user.o
+HardwareSerial::write(unsigned char)              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                                                  ./avrRos_user.o
+Msg::Msg()                                        ./avrRos/Msg.o
+                                                  ./avrRos/String.o
+                                                  ./avrRos/AvrLaserVector.o
+Msg::Msg()                                        ./avrRos/Msg.o
+Msg::~Msg()                                       ./avrRos/Msg.o
+Msg::~Msg()                                       ./avrRos/Msg.o
+                                                  ./avrRos/String.o
+                                                  ./avrRos/AvrLaserVector.o
+Print::print(char const*)                         /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::print(char, int)                           /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::print(double, int)                         /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::print(int, int)                            /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::print(long, int)                           /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::print(unsigned char, int)                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::print(unsigned int, int)                   /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::print(unsigned long, int)                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::printFloat(double, unsigned char)          /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::println()                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::println(char const*)                       /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::println(char, int)                         /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::println(double, int)                       /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::println(int, int)                          /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::println(long, int)                         /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::println(unsigned char, int)                /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::println(unsigned int, int)                 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::println(unsigned long, int)                /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+Print::write(char const*)                         /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+Print::write(unsigned char const*, unsigned int)  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+ROS::string::bytes()                              ./avrRos/ros_string.o
+                                                  ./avrRos/String.o
+ROS::string::deserialize(unsigned char*)          ./avrRos/ros_string.o
+                                                  ./avrRos/String.o
+ROS::string::serialize(unsigned char*)            ./avrRos/ros_string.o
+                                                  ./avrRos/String.o
+                                                  ./avrRos/Ros.o
+ROS::string::setMaxLength(unsigned int)           ./avrRos/ros_string.o
+ROS::string::setString(char*)                     ./avrRos/ros_string.o
+ROS::string::string()                             ./avrRos/ros_string.o
+                                                  ./avrRos/String.o
+ROS::string::string()                             ./avrRos/ros_string.o
+ROS::string::string(char*)                        ./avrRos/ros_string.o
+                                                  ./avrRos/Ros.o
+ROS::string::string(char*)                        ./avrRos/ros_string.o
+ROS::string::string(unsigned int)                 ./avrRos/ros_string.o
+ROS::string::string(unsigned int)                 ./avrRos/ros_string.o
+Ros::Ros(char*, unsigned char)                    ./avrRos/Ros.o
+Ros::Ros(char*, unsigned char)                    ./avrRos/Ros.o
+                                                  ./avrRos/ros_generated.o
+Ros::advertise(char*)                             ./avrRos/Ros.o
+                                                  ./main.o
+Ros::getID()                                      ./avrRos/Ros.o
+Ros::getTopicTag(char*)                           ./avrRos/ros_generated.o
+                                                  ./avrRos/Ros.o
+Ros::initCommunication()                          ./avrRos_user.o
+                                                  ./main.o
+Ros::publish(unsigned char, Msg*)                 ./avrRos/Ros.o
+                                                  ./main.o
+Ros::resetStateMachine()                          ./avrRos/Ros.o
+Ros::send(unsigned char*, unsigned int, char, char) ./avrRos/Ros.o
+Ros::spin()                                       ./avrRos/Ros.o
+                                                  ./main.o
+Ros::subscribe(char*, void (*)(Msg*), Msg*)       ./avrRos/Ros.o
+Ros::~Ros()                                       ./avrRos/Ros.o
+Ros::~Ros()                                       ./avrRos/Ros.o
+                                                  ./avrRos/ros_generated.o
+Serial                                            /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                                                  ./avrRos_user.o
+Servo::Servo()                                    ./Arduino/Servo.o
+Servo::Servo()                                    ./Arduino/Servo.o
+                                                  ./main.o
+Servo::attach(int)                                ./Arduino/Servo.o
+                                                  ./main.o
+Servo::attach(int, int, int)                      ./Arduino/Servo.o
+Servo::attached()                                 ./Arduino/Servo.o
+Servo::detach()                                   ./Arduino/Servo.o
+Servo::read()                                     ./Arduino/Servo.o
+Servo::readMicroseconds()                         ./Arduino/Servo.o
+Servo::write(int)                                 ./Arduino/Servo.o
+                                                  ./main.o
+Servo::writeMicroseconds(int)                     ./Arduino/Servo.o
+ServoCount                                        ./Arduino/Servo.o
+__addsf3                                          /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+__bad_interrupt                                   /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__brkval                                          /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__bss_end                                         /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+__clz_tab                                         /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clzsi2.o)
+__clzsi2                                          /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clzsi2.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+__ctors_end                                       /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+__ctors_start                                     /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+__cxa_pure_virtual                                ./main.o
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  ./avrRos/Msg.o
+__data_end                                        /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+__divmodhi4                                       /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                                                  ./Arduino/Servo.o
+__divmodsi4                                       /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+__divsf3                                          /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  ./main.o
+__do_clear_bss                                    /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clear_bss.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fputc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clzsi2.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                                                  ./Arduino/Servo.o
+                                                  ./avrRos/ros_string.o
+                                                  ./avrRos/ros_generated.o
+                                                  ./avrRos/String.o
+                                                  ./avrRos/Ros.o
+                                                  ./avrRos/Msg.o
+                                                  ./avrRos/AvrLaserVector.o
+                                                  ./main.o
+                                                  ./avrRos_user.o
+__do_copy_data                                    /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_copy_data.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fputc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clz.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_clzsi2.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                                                  ./Arduino/Servo.o
+                                                  ./avrRos/ros_string.o
+                                                  ./avrRos/ros_generated.o
+                                                  ./avrRos/String.o
+                                                  ./avrRos/Ros.o
+                                                  ./avrRos/Msg.o
+                                                  ./avrRos/AvrLaserVector.o
+                                                  ./main.o
+                                                  ./avrRos_user.o
+__do_global_ctors                                 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                                                  ./avrRos/ros_generated.o
+                                                  ./avrRos/Ros.o
+                                                  ./main.o
+__do_global_dtors                                 /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+                                                  ./avrRos/ros_generated.o
+                                                  ./main.o
+__dtors_end                                       /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+__dtors_start                                     /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+__epilogue_restores__                             /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_epilogue.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+__fixsfsi                                         /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+__fixunssfsi                                      /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+__floatsisf                                       /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  ./main.o
+__floatunsisf                                     /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+__flp                                             /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__fpcmp_parts_f                                   /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fpcmp_parts_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+__gesf2                                           /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+__heap_end                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__heap_start                                      /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__init                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__iob                                             /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(iob.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+__ltsf2                                           /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+__malloc_heap_end                                 /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_heap_start                               /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__malloc_margin                                   /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+__mulsf3                                          /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  ./main.o
+__mulsi3                                          /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mulsi3.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+__pack_f                                          /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_pack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+__prologue_saves__                                /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_prologue.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_usi_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_si_to_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+__stack                                           /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__subsf3                                          /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_fixunssfsi.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  ./main.o
+__tablejump2__                                    /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+__tablejump__                                     /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_tablejump.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_dtors.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ctors.o)
+__thenan_sf                                       /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_thenan_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+__udivmodqi4                                      /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodqi4.o)
+                                                  ./Arduino/Servo.o
+__udivmodsi4                                      /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodsi4.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+__unpack_f                                        /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_unpack_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_sf_to_si.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_lt_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_ge_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_div_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_mul_sf.o)
+                                                  /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_addsub_sf.o)
+__vector_1                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       ./Arduino/Servo.o
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+__vectors                                         /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+_div                                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_divmodhi4.o)
+_exit                                             /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+analogRead                                        /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+                                                  ./main.o
+analogReference                                   /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+analogWrite                                       /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+analog_reference                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+calloc                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+delay                                             /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+                                                  ./main.o
+delayMicroseconds                                 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+digitalRead                                       /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+digitalWrite                                      /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+                                                  ./Arduino/Servo.o
+                                                  ./main.o
+digital_pin_to_bit_mask_PGM                       /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+digital_pin_to_port_PGM                           /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+exit                                              /usr/lib/gcc/avr/4.3.3/avr5/libgcc.a(_exit.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+fdevopen                                          /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fdevopen.o)
+                                                  ./avrRos/Ros.o
+fputc                                             /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fputc.o)
+                                                  ./avrRos/Ros.o
+free                                              /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  ./avrRos/AvrLaserVector.o
+                                                  ./main.o
+fwrite                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(fwrite.o)
+                                                  ./avrRos/Ros.o
+init                                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+loop                                              ./main.o
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+main                                              /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/crtm328p.o
+makeWord(unsigned char, unsigned char)            /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+makeWord(unsigned int)                            /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+malloc                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(malloc.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+                                                  ./avrRos/ros_string.o
+                                                  ./avrRos/AvrLaserVector.o
+                                                  ./main.o
+map(long, long, long, long, long)                 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+                                                  ./Arduino/Servo.o
+maximus_sensors::AvrLaserVector::AvrLaserVector() ./avrRos/AvrLaserVector.o
+                                                  ./main.o
+maximus_sensors::AvrLaserVector::AvrLaserVector() ./avrRos/AvrLaserVector.o
+maximus_sensors::AvrLaserVector::AvrLaserVector(unsigned char*) ./avrRos/AvrLaserVector.o
+maximus_sensors::AvrLaserVector::AvrLaserVector(unsigned char*) ./avrRos/AvrLaserVector.o
+maximus_sensors::AvrLaserVector::bytes()          ./avrRos/AvrLaserVector.o
+maximus_sensors::AvrLaserVector::deserialize(unsigned char*) ./avrRos/AvrLaserVector.o
+maximus_sensors::AvrLaserVector::serialize(unsigned char*) ./avrRos/AvrLaserVector.o
+maximus_sensors::AvrLaserVector::~AvrLaserVector() ./avrRos/AvrLaserVector.o
+maximus_sensors::AvrLaserVector::~AvrLaserVector() ./avrRos/AvrLaserVector.o
+                                                  ./main.o
+memcpy                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memcpy.o)
+                                                  ./avrRos/ros_string.o
+                                                  ./avrRos/AvrLaserVector.o
+memset                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(memset.o)
+                                                  /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(calloc.o)
+micros                                            /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+millis                                            /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+pinMode                                           /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_analog.o)
+                                                  ./Arduino/Servo.o
+                                                  ./main.o
+port_to_input_PGM                                 /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+port_to_mode_PGM                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+port_to_output_PGM                                /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(pins_arduino.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring_digital.o)
+random                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+random(long)                                      /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+random(long, long)                                /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+randomSeed(unsigned int)                          /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+random_r                                          /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+respavrlaservector                                ./main.o
+response(Msg*)                                    ./main.o
+responseavrlaservector_msg                        ./main.o
+ros                                               ./avrRos/ros_generated.o
+                                                  ./avrRos/Ros.o
+                                                  ./main.o
+ros_getchar(__file*)                              ./avrRos_user.o
+                                                  ./avrRos/Ros.o
+ros_io                                            ./avrRos/Ros.o
+ros_putchar(char, __file*)                        ./avrRos_user.o
+                                                  ./avrRos/Ros.o
+rx_buffer                                         /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+setup                                             ./main.o
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(main.o)
+srandom                                           /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(random.o)
+                                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(WMath.o)
+std_msgs::String::String()                        ./avrRos/String.o
+std_msgs::String::String()                        ./avrRos/String.o
+std_msgs::String::String(unsigned char*)          ./avrRos/String.o
+std_msgs::String::String(unsigned char*)          ./avrRos/String.o
+std_msgs::String::bytes()                         ./avrRos/String.o
+std_msgs::String::deserialize(unsigned char*)     ./avrRos/String.o
+std_msgs::String::serialize(unsigned char*)       ./avrRos/String.o
+std_msgs::String::~String()                       ./avrRos/String.o
+std_msgs::String::~String()                       ./avrRos/String.o
+strcmp                                            /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strcmp.o)
+                                                  ./avrRos/ros_generated.o
+strncpy                                           /usr/lib/gcc/avr/4.3.3/../../../avr/lib/avr5/libc.a(strncpy.o)
+                                                  ./avrRos/ros_string.o
+tempfloat                                         ./main.o
+timer0_millis                                     /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+timer0_overflow_count                             /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(wiring.o)
+toggle()                                          ./main.o
+turret                                            ./main.o
+vtable for HardwareSerial                         /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(HardwareSerial.o)
+vtable for Msg                                    ./avrRos/Msg.o
+vtable for Print                                  /media/ROBOTS/Tests_before_implement/PML/PML_AVR/libArduinoDcore.a(Print.o)
+vtable for maximus_sensors::AvrLaserVector        ./avrRos/AvrLaserVector.o
+vtable for std_msgs::String                       ./avrRos/String.o
